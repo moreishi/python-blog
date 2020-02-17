@@ -1,8 +1,8 @@
 # Welcome to Python Blog using Django!
 
-The purpose of this Python Blog project, is to execute the Django setup and slowly add routes and apps.
+The purpose of this Python Blog project, is to execute the Django setup then slowly add routes and applications.
 
-Technically I use this steps to learn Python CRUD to become slowly well-versed in Python while adding new features to it. In the next commits you will see bigger improvements. So follow this and learn with me at the same time.
+Technically I use this approach to learn Python MVC and to become well-versed in Python while adding new features. In the next commits we will see bigger improvements. Follow this repo and learn with me while building this simple zero to hero project!
 
 ## Usage
 
